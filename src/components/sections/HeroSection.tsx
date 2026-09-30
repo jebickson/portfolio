@@ -30,15 +30,17 @@ export const HeroSection: React.FC = () => {
 
         {/* Main Title & Typographic Headline */}
         <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight leading-[1.08] mb-6">
-          <span className="block text-gradient-white">Designing Immersive</span>
+          <span className="block text-gradient-white">Building Scalable Web Applications</span>
           <span className="block text-gradient-cyan-purple neon-text-cyan">
-            3D Web Realities.
+            Backend Systems
           </span>
         </h1>
 
         {/* Core Subtitle */}
         <p className="max-w-2xl text-base sm:text-lg text-slate-300 font-normal leading-relaxed mb-10">
-          I am <strong className="text-white font-semibold">Jebickson Samuel</strong>, a Principal Creative Frontend Engineer & 3D Web Architect. I synthesize high-performance WebGL graphics, custom GLSL shaders, and reactive web applications running at effortless 120 FPS.
+          I am <strong className="text-white font-semibold">Jebickson Samuel</strong>, a Software Engineer focused on building scalable and efficient applications using Java and modern web technologies.
+I specialize in backend development with Spring Boot, REST APIs, and database systems, along with frontend development using React.
+I am actively seeking opportunities as a Software Engineer or Java Developer.
         </p>
 
         {/* Action CTAs */}
