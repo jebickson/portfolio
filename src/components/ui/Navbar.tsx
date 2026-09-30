@@ -59,7 +59,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection }) => {
             </div>
             <div>
               <span className="font-mono text-sm font-bold tracking-wider text-white flex items-center gap-1.5">
-                KAELEN VANCE
+                Jebickson
                 <span className="text-[10px] text-cyber-cyan font-normal px-1.5 py-0.5 rounded bg-cyber-cyan/10 border border-cyber-cyan/30">
                   3D.DEV
                 </span>
