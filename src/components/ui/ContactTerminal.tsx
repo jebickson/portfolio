@@ -100,7 +100,7 @@ export const ContactTerminal: React.FC = () => {
           ) : (
             <>
               <Copy className="w-3.5 h-3.5" />
-              <span>kaelen.vance.architect@gmail.com</span>
+              <span>jebisam12@gmail.com</span>
             </>
           )}
         </button>

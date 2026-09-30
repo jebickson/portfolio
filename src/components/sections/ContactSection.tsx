@@ -4,10 +4,10 @@ import { ContactTerminal } from '../ui/ContactTerminal';
 import { useSoundEffects } from '../../hooks/useSoundEffects';
 
 const SOCIAL_LINKS = [
-  { name: 'GitHub', icon: Github, url: 'https://github.com' },
-  { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com' },
-  { name: 'X / Twitter', icon: Twitter, url: 'https://x.com' },
-  { name: 'Discord', icon: MessageSquare, url: 'https://discord.com' },
+  { name: 'GitHub', icon: Github, url: 'https://github.com/jebickson' },
+  { name: 'LinkedIn', icon: Linkedin, url: 'https://www.linkedin.com/in/jebicksonsamuel/' },
+  { name: 'X / Twitter', icon: Twitter, url: 'https://x.com/jebickson' },
+  { name: 'Discord', icon: MessageSquare, url: 'https://discord.com/users/1366324401708204053' },
 ];
 
 export const ContactSection: React.FC = () => {
@@ -63,7 +63,7 @@ export const ContactSection: React.FC = () => {
 
       {/* Footer / Copyright bar */}
       <div className="mt-20 pt-8 border-t border-white/10 max-w-6xl mx-auto w-full flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-slate-500">
-        <p>© {new Date().getFullYear()} Kaelen Vance. All 3D meshes, GLSL shaders & design systems engineered from scratch.</p>
+        <p>© {new Date().getFullYear()} Jebickson Samuel. All 3D meshes, GLSL shaders & design systems engineered from scratch.</p>
         <p className="flex items-center gap-2">
           <span>React 18</span>
           <span>•</span>
