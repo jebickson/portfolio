@@ -3,7 +3,7 @@ import { ExperienceItem } from '../types/portfolio';
 export const EXPERIENCES_DATA: ExperienceItem[] = [
   {
     id: 'exp-1',
-    role: 'Principal Creative Frontend Engineer',
+    role: 'Software Engineer',
     company: 'Nexus Spatial Labs',
     location: 'San Francisco, CA (Remote)',
     period: '2023 — Present',
