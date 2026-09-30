@@ -68,20 +68,20 @@ I am actively seeking opportunities as a Software Engineer or Java Developer.
           <div className="glass-panel p-4 rounded-2xl border border-white/5 hover:border-cyber-cyan/30 transition-colors">
             <div className="flex items-center justify-center gap-1.5 text-cyber-cyan mb-1">
               <Code2 className="w-4 h-4" />
-              <span className="text-xl sm:text-2xl font-mono font-extrabold text-white">60+</span>
+              <span className="text-xl sm:text-2xl font-mono font-extrabold text-white">5+</span>
             </div>
             <p className="text-[11px] font-mono text-slate-400 uppercase tracking-wider">
-              FPS WebGL Target
+              Projects Built
             </p>
           </div>
 
           <div className="glass-panel p-4 rounded-2xl border border-white/5 hover:border-cyber-purple/30 transition-colors">
             <div className="flex items-center justify-center gap-1.5 text-cyber-purple mb-1">
               <Layers className="w-4 h-4" />
-              <span className="text-xl sm:text-2xl font-mono font-extrabold text-white">8+</span>
+              <span className="text-xl sm:text-2xl font-mono font-extrabold text-white">10+</span>
             </div>
             <p className="text-[11px] font-mono text-slate-400 uppercase tracking-wider">
-              Years Experience
+              Technologies Learned 
             </p>
           </div>
 
@@ -91,7 +91,7 @@ I am actively seeking opportunities as a Software Engineer or Java Developer.
               <span className="text-xl sm:text-2xl font-mono font-extrabold text-white">100%</span>
             </div>
             <p className="text-[11px] font-mono text-slate-400 uppercase tracking-wider">
-              Accessible PBR
+              Open to Work
             </p>
           </div>
         </div>
